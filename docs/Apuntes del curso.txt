@@ -1,0 +1,15 @@
+Apuntes del curso
+-------------------
+
+Como compilar bootstrap
+
+1. Instalar Koala
+2. Descargar bootstrap sin compilar
+3. Abrimos el koala, mimizado en bandea y mimizado al iniciar, no el notificacion
+4. AutoPrefix marcado en less.
+5. sass source map y autoprefix
+6. arrastramos la carpeta scss
+7. buscamos el archivo bootstrap.scss, click derecho y definir ruta de salida
+8. Damos a compilar y se crea
+
+
